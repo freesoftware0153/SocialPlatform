@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ravi:0153ravi@socialplatform.vuxda.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    ,"jwtSecret": "ravi0153",
+    "githubclientid": "e0c304167e0ae1b076d6",
+    "githubclientsecret": " 1b92d8a036c2cfbaa9250c00c6c26f9ecbd32d6e"
+}
